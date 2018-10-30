@@ -49,6 +49,7 @@ Contents
 	Start Here <start-here>
 	Data Preparation <data-prep>
   Data Processing <data-process>
+  Utility <utility>
   Landmark Calculation <landmark-calculation>
 	Sample Classification <classifier>
   Checklist <checklist>
